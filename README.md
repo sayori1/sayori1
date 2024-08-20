@@ -1,4 +1,4 @@
-###👋
+👋
 - 🔥 I have a passion for game development, mathematics, and overall development.
 - 🌱 I'm currently exploring programming architectures and deepening my knowledge in mathematics.
 - 🔭 I work as a Flutter developer.
