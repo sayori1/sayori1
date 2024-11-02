@@ -8,4 +8,4 @@
 
 Outside of my main stack, I love exploring new areas, whether it’s gamedev, web, backend, or ML. I also occasionally write in low-level languages.
 
-🎓 I'm currently pursuing a degree in machine learning at a Moscow institute remotely.
+🎓 I'm currently pursuing a degree in machine learning remotely.
